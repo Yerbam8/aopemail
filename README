@@ -1,0 +1,12 @@
+### How to run it?
+
+You just need to change your login and password in the settings.
+
+## What is this?
+
+This is the use of AOP to send an email
+
+
+## What was the purpose?
+
+The goal was to learn aspect programming and to learn how to send an email through a program.
